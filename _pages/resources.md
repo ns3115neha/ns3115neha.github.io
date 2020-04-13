@@ -15,3 +15,6 @@ Interesting reads
 [Google Cloud Data Engineer](https://linuxacademy.com/course/google-cloud-data-engineer/) \n
 [GCP LucidChart](https://www.lucidchart.com/documents/view/0ca44a63-4ea4-4d78-8367-2465512d21be/H6Px4DdAjbF5)
 
+### Blogs 
+[FastML](http://fastml.com/)  
+[KDnuggets](http://www.kdnuggets.com/)  
