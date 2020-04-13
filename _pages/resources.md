@@ -12,5 +12,6 @@ Interesting reads
 
 
 
-### Research 
+### GCP
+[Google Cloud Data Engineer] (https://linuxacademy.com/course/google-cloud-data-engineer/)
 
