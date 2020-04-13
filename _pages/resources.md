@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /resources/
-title: "resources"
 author_profile: true
 ---
 
@@ -14,4 +13,5 @@ Interesting reads
 
 ### GCP
 [Google Cloud Data Engineer](https://linuxacademy.com/course/google-cloud-data-engineer/)
+[LucidChartGCP](https://www.lucidchart.com/documents/view/0ca44a63-4ea4-4d78-8367-2465512d21be/H6Px4DdAjbF5)
 
