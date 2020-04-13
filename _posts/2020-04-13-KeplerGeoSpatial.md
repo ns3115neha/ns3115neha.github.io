@@ -5,10 +5,11 @@ categories: [GeoVis]
 ---
 
 
-### 4 lines of Pythonic code 
+### 3 lines of Python code 
 
-Ever wondered the flexibility of python and Kepler.gl combined how easy it is to visualise Geo Spatial data.
-
+If you spend a lot of time analyzing geospatial data in Python do give Kepler.Gl a try. The flexibility of analyzing geospatial data in under three lines of python code is impressive 
+ 
+find this very useful for quick wins https://kepler.gl/
 
 ```
 import pandas as pd
