@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Neha Sharma"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/neha_jp.jpg"
   bio              : "Currently analysing Telecoms Network Data "
   location         : "United Kingdom"
   email            :
