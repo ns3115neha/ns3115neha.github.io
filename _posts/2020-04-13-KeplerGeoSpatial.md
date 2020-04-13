@@ -9,7 +9,8 @@ categories: [GeoVis]
 
 Ever wondered the flexibility of python and Kepler.gl combined how easy it is to visualise Geo Spatial data.
 
-'''python 
+
+```
 import pandas as pd
 import keplergl
 import geopandas as gpd
@@ -25,7 +26,8 @@ map = keplergl.KeplerGl(height=400,width=800)
 
 add geometry encoded dataframe to map
 map.add_data(data = gdf, name = 'dummylayer'
-'''
+```
+
 
 ![](/images/keplergeo.png){: .center-image }
 
