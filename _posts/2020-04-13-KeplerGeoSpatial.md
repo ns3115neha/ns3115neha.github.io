@@ -29,5 +29,5 @@ map.add_data(data = gdf, name = 'dummylayer'
 ```
 
 
-![](/images/KeplerGL.jpg){: .center-image }
+![](/images/Kepler/KeplerGL.jpg){: .center-image }
 
