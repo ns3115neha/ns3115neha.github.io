@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Resources"
     url: /resources/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "GeoData"
+    url: /GeoSpatial/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
