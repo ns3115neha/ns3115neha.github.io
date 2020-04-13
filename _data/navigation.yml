@@ -2,8 +2,7 @@
 main:
   - title: "About"
     url :/about/
-  - title: "DS_Foundations"
-    url:/DS_Foundations/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
