@@ -1,6 +1,6 @@
 ---
-title:"About"
-permalink:/about/
+title: "About"
+permalink: /about/
 header:
   image:"/images/datascience_01.jpg"
 ---
