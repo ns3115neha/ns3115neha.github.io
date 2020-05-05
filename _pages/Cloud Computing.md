@@ -1,4 +1,5 @@
 ---
+title: "Exploring Google Cloud Platform "
 permalink: /Cloud Computing/
 author_profile: true
 ---
