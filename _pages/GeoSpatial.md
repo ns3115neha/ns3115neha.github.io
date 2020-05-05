@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /GeoSpatial/
 author_profile: true
 ---  
