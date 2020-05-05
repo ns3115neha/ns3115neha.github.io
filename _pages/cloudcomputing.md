@@ -1,5 +1,7 @@
 ---
-title: "cloudcomputing"
+layout: single
+permalink: /cloud computing/
+author_profile: true
 ---
 
 
