@@ -6,6 +6,8 @@ main:
     url: /resources/
   - title: "GeoData"
     url: /GeoSpatial/
+  - title: "Cloud Computing"
+    url: /Cloud Computing/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
