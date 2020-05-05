@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /Cloud Computing/
 author_profile: true
 ---
