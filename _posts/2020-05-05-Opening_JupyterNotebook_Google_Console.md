@@ -1,7 +1,7 @@
 ---
 published: true
 title: Open Jupyter Notebooks in Google Cloud Platform
-categories: [GCP]
+categories: [GCP,Python]
 ---
 
 Google cloud platform can be tricky to work with offering so many products and when you are looking to work in your familar Jupyter lab IDE it can be a daunting task to navigate your way in an unfamilar enviroment. While taking numerous courses on coursera I had the Google cloud resources at my disposal and I could try understanding the complex ecosystem of offering
@@ -21,10 +21,12 @@ Step 2: Click on New Instance which by default create a 4vCPU and 16GB RAM noteb
 ![](/images/GCP/step2.png){: .center-image }
 ![](/images/GCP/step3.png){: .center-image }
 
-
-PS: Creating a new instance is not free and incur charges to account for the time the instance is up and running
+```diff
+- PS: Creating a new instance is not free and incur charges to account for the time the instance is up and running
+```
 
 ![](/images/GCP/step4.png){: .center-image }
+
 
 
 Step 3: It takes about 2 mins for the instance to be created , Once created click on Open JupyterLab and you have your friendly python notebooks
