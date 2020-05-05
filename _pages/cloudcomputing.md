@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /cloudcomputing/
 author_profile: true
 ---
 
