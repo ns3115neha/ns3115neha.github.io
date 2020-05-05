@@ -1,4 +1,5 @@
 ---
+title: "Geographic Data Explorations"
 permalink: /GeoSpatial/
 author_profile: true
 ---  
@@ -8,4 +9,4 @@ author_profile: true
 
 
 ### Geo Spatial Analytics 
-
+Creating Grids in QGIS 
