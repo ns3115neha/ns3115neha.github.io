@@ -38,7 +38,8 @@ Step 4: Open a new Python 3 notebook, write BQL styled queries run the job for e
 
 ![](/images/GCP/step7.png){: .center-image }
 
-Step 5: To avoid your organisation getting billed please stop the instance  
-
+```diff
+- Step 5: To avoid your organisation getting billed please stop the instance  
+```
 
 
