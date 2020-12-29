@@ -1,0 +1,16 @@
+1. Loss functions in ML
+https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/
+
+2. Diagnostic Learning Curves : Underfit /Overfit/Good Fit evaluation for Model performance 
+https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/#:~:text=A%20learning%20curve%20is%20a,from%20a%20training%20dataset%20incrementally.&text=Learning%20curves%20are%20plots%20that,time%20in%20terms%20of%20experience
+
+
+2. Deploying a model in GCP and serving predictions in 5 steps 
+
+
+gs://d2463276a4b7155a-mbnl-data-uat-data-authority/Test_bucket/model.pkl
+
+https://storage.cloud.google.com/d2463276a4b7155a-mbnl-data-uat-data-authority/Test_bucket/model.pkl
+
+
+
