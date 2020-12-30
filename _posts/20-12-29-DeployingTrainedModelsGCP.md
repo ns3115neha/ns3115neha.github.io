@@ -84,7 +84,7 @@ $gsutil mb -l <region_name> gs://<bucket_name>
 
 
 
-![](/images/GCP/Model_Deployment/Storage_Bucket_Creation_1.png){: .center-image }
+![](/images/Model_Deployment/Storage_Bucket_Creation_1.png){: .center-image }
 
 
     
@@ -92,7 +92,7 @@ $gsutil mb -l <region_name> gs://<bucket_name>
 
 
 
-![](/images/GCP/Model_Deployment/Upload_Model_GCS_Bucket.png){: .center-image }
+![](/images/Model_Deployment/Upload_Model_GCS_Bucket.png){: .center-image }
 
 
 ### Define an AI platform prediction resource 
@@ -106,8 +106,8 @@ Once done create a model resource to act as place holder for when the version is
 
 
 
-![](/images/GCP/Model_Deployment/Create_Python_Instance.png){: .center-image }
-![](/images/GCP/Model_Deployment/enable_models_api.png){: .center-image }
+![](/images/Model_Deployment/Create_Python_Instance.png){: .center-image }
+![](/images/Model_Deployment/enable_models_api.png){: .center-image }
 
 
 
@@ -147,12 +147,12 @@ sklearn.__version__
 
 
 
-![](/images/GCP/Model_Deployment/model_version.png){: .center-image }
+![](/images/Model_Deployment/model_version.png){: .center-image }
 
 
 ### Model all Deployed and Ready for serving predictions 
 
-![](/images/GCP/Model_Deployment/model_version_created.png){: .center-image }
+![](/images/Model_Deployment/model_version_created.png){: .center-image }
 
     
 
