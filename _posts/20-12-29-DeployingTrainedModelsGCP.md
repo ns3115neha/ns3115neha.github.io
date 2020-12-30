@@ -164,4 +164,5 @@ https://cloud.google.com/ai-platform/prediction/docs/deploying-models
 Offical Documentation for serving predictions using deployed models
 https://cloud.google.com/ai-platform/prediction/docs/online-predict
     
+![](/images/GCP/step4.png){: .center-image }
 
