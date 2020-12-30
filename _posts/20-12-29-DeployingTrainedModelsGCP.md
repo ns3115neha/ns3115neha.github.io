@@ -84,7 +84,7 @@ $gsutil mb -l <region_name> gs://<bucket_name>
 
 
 
-![](/images/Model_Deployment/Storage_Bucket_Creation_1.png){: .center-image }
+![](/images/Model_Deployment/Storage_Bucket_Creation_1.PNG){: .center-image }
 
 
     
@@ -92,7 +92,7 @@ $gsutil mb -l <region_name> gs://<bucket_name>
 
 
 
-![](/images/Model_Deployment/Upload_Model_GCS_Bucket.png){: .center-image }
+![](/images/Model_Deployment/Upload_Model_GCS_Bucket.PNG){: .center-image }
 
 
 ### Define an AI platform prediction resource 
@@ -106,8 +106,8 @@ Once done create a model resource to act as place holder for when the version is
 
 
 
-![](/images/Model_Deployment/Create_Python_Instance.png){: .center-image }
-![](/images/Model_Deployment/enable_models_api.png){: .center-image }
+![](/images/Model_Deployment/Create_Python_Instance.PNG){: .center-image }
+![](/images/Model_Deployment/enable_models_api.PNG){: .center-image }
 
 
 
@@ -147,7 +147,7 @@ sklearn.__version__
 
 
 
-![](/images/Model_Deployment/model_version.png){: .center-image }
+![](/images/Model_Deployment/model_version.PNG){: .center-image }
 
 
 ### Model all Deployed and Ready for serving predictions 
@@ -164,5 +164,4 @@ https://cloud.google.com/ai-platform/prediction/docs/deploying-models
 Offical Documentation for serving predictions using deployed models
 https://cloud.google.com/ai-platform/prediction/docs/online-predict
     
-![](/images/GCP/step4.png){: .center-image }
 
