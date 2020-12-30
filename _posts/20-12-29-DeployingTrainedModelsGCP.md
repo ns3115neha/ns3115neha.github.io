@@ -1,3 +1,8 @@
+---
+published: true
+title: Deploying offline trained models on GCP
+categories: [GCP,Python]
+---
 
 Recently my team was tasked for lifting and shifting a model currently deployed in Local linux machine to Google Cloud Platform.I found this process quite challenging since storage buckets and IAM permissions on Google cloud platform are controlled by external vendor and since it was first live implementation it was important to understand the architecture of data streams set up
 
@@ -56,10 +61,6 @@ with open('model.pkl', 'wb') as model_file:
 
 
 
-    "\nimport sklearn\nfrom sklearn import datasets \nfrom sklearn import linear_model\nimport pickle \n\n#load data\nbreast_cancer = datasets.load_breast_cancer()\n\n#define baseline model\nmodel = sklearn.linear_model.LogisticRegression()\n\n#save baseline model \nmodel.fit(breast_cancer.data, breast_cancer.target) \nwith open('model.pkl', 'wb') as model_file: \n    pickle.dump(model, model_file)\n    \n"
-
-
-
 ### Create a Google Cloud Storage Bucket 
 
 A storage bucket is needed to act as a placeholder for your offline trained model to be deployed. Creating bucket can be done using command line interface or using GUI and following the steps attached
@@ -83,27 +84,16 @@ $gsutil mb -l <region_name> gs://<bucket_name>
 
 
 
-```python
 ![](/images/GCP/Model_Deployment/Storage_Bucket_Creation_1.png){: .center-image }
 
-```
 
-    '[]' is not recognized as an internal or external command,
-    operable program or batch file.
     
-
 ### Upload your Packaged Model to GCS Bucket created in above step 
 
 
 
-```python
 ![](/images/GCP/Model_Deployment/Upload_Model_GCS_Bucket.png){: .center-image }
 
-```
-
-    '[]' is not recognized as an internal or external command,
-    operable program or batch file.
-    
 
 ### Define an AI platform prediction resource 
 
@@ -115,16 +105,12 @@ The model API is by deafult enabled if not kindly enable the API manually in you
 Once done create a model resource to act as place holder for when the version is created 
 
 
-```python
+
 ![](/images/GCP/Model_Deployment/Create_Python_Instance.png){: .center-image }
 ![](/images/GCP/Model_Deployment/enable_models_api.png){: .center-image }
-```
 
-    '[]' is not recognized as an internal or external command,
-    operable program or batch file.
-    '[]' is not recognized as an internal or external command,
-    operable program or batch file.
-    
+
+
 
 ### Define an AI platform version resource 
 
@@ -160,26 +146,14 @@ sklearn.__version__
 
 
 
-```python
+
 ![](/images/GCP/Model_Deployment/model_version.png){: .center-image }
 
-```
-
-    '[]' is not recognized as an internal or external command,
-    operable program or batch file.
-    
 
 ### Model all Deployed and Ready for serving predictions 
 
-
-
-```python
 ![](/images/GCP/Model_Deployment/model_version_created.png){: .center-image }
 
-```
-
-    '[]' is not recognized as an internal or external command,
-    operable program or batch file.
     
 
 ### Appendix 
