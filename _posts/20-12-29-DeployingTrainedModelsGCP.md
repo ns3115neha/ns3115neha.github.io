@@ -152,7 +152,7 @@ sklearn.__version__
 
 ### Model all Deployed and Ready for serving predictions 
 
-![](/images/Model_Deployment/model_version_created.png){: .center-image }
+![](/images/Model_Deployment/model_version_created.PNG){: .center-image }
 
     
 
