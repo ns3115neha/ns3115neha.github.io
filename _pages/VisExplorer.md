@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /resources/
+permalink: /VisExplorer/
 author_profile: true
 ---
 

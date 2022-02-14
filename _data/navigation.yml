@@ -8,6 +8,9 @@ main:
     url: /GeoSpatial/
   - title: "Cloud Computing"
     url: /Cloud Computing/
+  - title: "VisExplorer"
+    url: /VisExplorer/
+  
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
