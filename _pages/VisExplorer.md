@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 permalink: /VisExplorer/
 author_profile: true
 ---
