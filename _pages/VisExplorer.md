@@ -1,5 +1,5 @@
 ---
-layout: multiple
+layout: posts
 permalink: /VisExplorer/
 author_profile: true
 ---
