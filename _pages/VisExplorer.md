@@ -15,4 +15,4 @@ Visualisations Explorer
 
 ### Resources 
 1. Finding the right chart type for Visualisation 
-Chart Guide(https://chart.guide/charts/time-or-trend/)
+[Chart Guide](https://chart.guide/charts/time-or-trend/)
