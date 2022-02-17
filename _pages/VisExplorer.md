@@ -16,3 +16,6 @@ Visualisations Explorer
 ### Resources 
 1. Finding the right chart type for Visualisation 
 [Chart Guide](https://chart.guide/charts/time-or-trend/)
+
+2. Colour Pallete Generator 
+[Coolors](https://coolors.co/)
